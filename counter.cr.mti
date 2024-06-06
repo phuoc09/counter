@@ -1,0 +1,15 @@
+D:/HUST/Nam3/Kyf2/FPGA/Counter/upcounter_testbench.v {1 {vlog -work work -stats=none D:/HUST/Nam3/Kyf2/FPGA/Counter/upcounter_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module upcounter_testbench
+
+Top level modules:
+	upcounter_testbench
+
+} {} {}} D:/HUST/Nam3/Kyf2/FPGA/Counter/up_counter.v {1 {vlog -work work -stats=none D:/HUST/Nam3/Kyf2/FPGA/Counter/up_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module up_counter
+
+Top level modules:
+	up_counter
+
+} {} {}}

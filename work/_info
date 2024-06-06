@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/HUST/Nam3/Kyf2/RISC_V
+vup_counter
+Z0 !s110 1717632538
+!i10b 1
+!s100 [XhbZm=:_D`h]niHBdD@o3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMR3g5cBMRdjZ7SE^R:NJQ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/HUST/Nam3/Kyf2/FPGA/Counter
+w1717632386
+8D:/HUST/Nam3/Kyf2/FPGA/Counter/up_counter.v
+FD:/HUST/Nam3/Kyf2/FPGA/Counter/up_counter.v
+!i122 0
+Z4 L0 1 15
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1717632537.000000
+!s107 D:/HUST/Nam3/Kyf2/FPGA/Counter/up_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HUST/Nam3/Kyf2/FPGA/Counter/up_counter.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vupcounter_testbench
+R0
+!i10b 1
+!s100 OZWi4L62nP<U`mfd4n;RC0
+R1
+Idn[nb0W3KReFgP>h;0YWY3
+R2
+R3
+w1717632448
+8D:/HUST/Nam3/Kyf2/FPGA/Counter/upcounter_testbench.v
+FD:/HUST/Nam3/Kyf2/FPGA/Counter/upcounter_testbench.v
+!i122 1
+R4
+R5
+r1
+!s85 0
+31
+!s108 1717632538.000000
+!s107 D:/HUST/Nam3/Kyf2/FPGA/Counter/upcounter_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HUST/Nam3/Kyf2/FPGA/Counter/upcounter_testbench.v|
+!i113 1
+R6
+R7
